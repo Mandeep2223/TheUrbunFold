@@ -31,7 +31,7 @@ const ParallaxComponent = () => {
         style={styles.parallax_bg}
       >
 
-        <div className="parallax h-[120vw] sm:h-[80vw] md:h-[50vw]" style={styles.parallax}>
+        <div className="parallax h-[120vw] sm:h-[60vw] md:h-[50vw]" style={styles.parallax}>
 
           <div className="parallax-text" style={styles.parallaxText}>
             <h1>Elevate Your Everyday Style</h1>
