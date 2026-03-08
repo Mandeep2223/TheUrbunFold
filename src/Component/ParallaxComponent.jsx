@@ -30,11 +30,9 @@ const ParallaxComponent = () => {
         strength={300}
         style={styles.parallax_bg}
       >
-<<<<<<< HEAD
+
         <div className="parallax h-[120vw] sm:h-[80vw] md:h-[50vw]" style={styles.parallax}>
-=======
-        <div className="parallax h-[90vw] md:h-[50vw]" style={styles.parallax}>
->>>>>>> 4cb740a11358af233e737541be7cac36c5ceffff
+
           <div className="parallax-text" style={styles.parallaxText}>
             <h1>Elevate Your Everyday Style</h1>
             <h4>Discover the Best Trending Premium T-Shirts for Summer 2026</h4>
