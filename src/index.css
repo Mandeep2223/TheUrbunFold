@@ -1,0 +1,13 @@
+@import "tailwindcss";
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.wrapper {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding:0 20px;
+}
+html {
+  scroll-behavior: smooth;
+}
